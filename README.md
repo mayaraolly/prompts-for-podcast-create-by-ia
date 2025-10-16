@@ -21,3 +21,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Audio gerado pela elevenLabs
 - Gemini Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
+
+
+- Por Mayara Oliveira
+- Linkedin: (www.linkedin.com/in/mayaraoli)
