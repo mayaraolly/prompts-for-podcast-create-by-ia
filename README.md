@@ -24,5 +24,5 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 
 
- Por Mayara Oliveira
+ Por Mayara Oliveira | 
  Linkedin: (www.linkedin.com/in/mayaraoli)
