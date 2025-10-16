@@ -23,5 +23,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 
-- Por Mayara Oliveira
-- Linkedin: (www.linkedin.com/in/mayaraoli)
+
+ Por Mayara Oliveira
+ Linkedin: (www.linkedin.com/in/mayaraoli)
