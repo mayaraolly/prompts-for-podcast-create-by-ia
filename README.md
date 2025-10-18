@@ -4,9 +4,8 @@
 
 ---
 
-<img width="400" height="1024" alt="image" src="https://github.com/user-attachments/assets/2bea95e3-a672-4ecd-b686-45bc8521ad3b"
- />
- 
+<img width="1021" height="461" alt="image" src="https://github.com/user-attachments/assets/f8118485-3f30-4393-85bb-f5ebbfd52baa" />
+
 ---
 
 ## 📚 O Projeto
