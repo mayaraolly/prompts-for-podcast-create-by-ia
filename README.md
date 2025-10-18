@@ -1,28 +1,53 @@
-# Podcast gerado por IA
-Prompts for Chatgpt, Gemini and ElevenLabs to create a AI Podcast
+# ArchVerso: Formas, técnicas e ideias que moldam o mundo
 
-<img width="500" height="1024" alt="image" src="https://github.com/user-attachments/assets/2bea95e3-a672-4ecd-b686-45bc8521ad3b"
+>*Podcast gerado por IA*
+
+---
+
+<img width="400" height="1024" alt="image" src="https://github.com/user-attachments/assets/2bea95e3-a672-4ecd-b686-45bc8521ad3b"
  />
+ 
+---
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+## 📚 O Projeto
+Projeto prático desenvolvido através do curso da DIO **Bootcamp de Fundamentos de IA Generativa**, com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais 
+elaborados.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+---
 
-## 💻 Tecnologias utilizadas no projeto
+## 🎙️ O Tema 
+Podcast sobre História da Arquitetura, com foco em aprofundar o conhecimento sobre a evolução das formas, técnicas e ideias que moldaram edifícios e cidades ao longo do tempo, relacionando-os com o contexto social, político, econômico e cultural de cada época
+
+---
+
+## 🎧 Episódio Piloto
+
+**Título:** *As Cidades Nascem das Pedras*  
+**Tema:** História da Arquitetura.  
+**Tom:** educacional, descontraido e envolvente, com curiosidades acessíveis e marcantes.  
+
+> “Antes dos arranha-céus, antes do vidro e do concreto, o ser humano tava lá — com barro, pedra e um sonho: construir abrigo, poder e beleza. E é aí que a história começa….”  
+
+---
+
+## 💻 Tecnologias utilizadas
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Gemini](https://gemini.google.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
+---
+
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Gemini Para gerar capas
+- Gemini Para gerar imagens
 - Capcut para tratar aúdio e adicionar sons de fundo
 
+---
 
+## 📌 Créditos
 
- Por Mayara Oliveira | 
- Linkedin: (www.linkedin.com/in/mayaraoli)
+Criado por **Mayara Oliveira**  
