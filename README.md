@@ -24,8 +24,9 @@ Podcast sobre História da Arquitetura, com foco em aprofundar o conhecimento so
 **Título:** *As Cidades Nascem das Pedras*  
 **Tema:** História da Arquitetura.  
 **Tom:** educacional, descontraido e envolvente, com curiosidades acessíveis e marcantes.  
-
+**Voz:** Alice, Modelo - eleven multilingual v2 - português
 > “Antes dos arranha-céus, antes do vidro e do concreto, o ser humano tava lá — com barro, pedra e um sonho: construir abrigo, poder e beleza. E é aí que a história começa….”  
+
 
 ---
 
